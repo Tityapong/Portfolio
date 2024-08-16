@@ -895,15 +895,11 @@ footer a i{
         font-size: .8rem;
     }
     .img-about{
-        width: 300px;
-        height: 400px;
+        width: 350px;
+        height: 350px;
     
     }
-    .img-about img{
-        width: 80%;
-        height: 100%;
-        border-radius: 50%;
-    }
+   
     .img-about p{
         font-size: 1rem;
     }
