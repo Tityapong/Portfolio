@@ -868,14 +868,14 @@ footer a i{
         flex-direction: column-reverse;
     }
     .img-about{
-        width: 400px;
-        height: 400px;
+        width: 380px;
+        height: 380px;
     
     }
     .img-about img{
         width: 100%;
         height: 100%;
-        border-radius: 50%;
+        /* border-radius: 50%; */
     }
     .skill-main{
         grid-template-columns: 1fr;
