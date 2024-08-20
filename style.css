@@ -946,11 +946,13 @@ p {
 .row {
     display: flex;
     flex-wrap: wrap;
+    margin: auto;
 }
 
 .col-lg-6 {
     flex: 1;
     padding: 20px;
+    /* background-color: red; */
 }
 .col-12 {
     flex: 1;
